@@ -1,1 +1,0 @@
-O arquivo presente nas pastas são parte de um aparendizado em HTML, onde a pasta "index" possui um site de um quiz, a pasta "sobre" apresente um breve resumo de quem sou eu. Assests contém imagens e as pastas .css são os CSS pra cada um dos arquivos HTML
